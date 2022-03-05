@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\IndigoToothbrush",
+    "\\IndigoToothbrush\\IndigoToothbrush"
   ],
+  "SelectedNode": "\\IndigoToothbrush\\IndigoToothbrush\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
